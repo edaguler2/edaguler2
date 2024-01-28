@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Eda</h1>
 <h3 align="center">Kendini geliştirmek isteyen genç yazılım geliştiricisi. İlgi alanlarım; Java, Uçak motoru, Yazılım</h3>
 
-- 🌱 java, açıklama motorları **Sisterlab, TEI**
+- 🌱 Java, açıklama motorları **Sisterlab, TEI**
 
 - 📫 Bana nasıl ulaşırsınız **edam.glr@gmail.com**
 
